@@ -1,0 +1,66 @@
+.services{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.btn11{
+    
+    background-color: orange;
+    width: 85%;
+    height: 10%;
+}
+.b1{
+    border: 1px solid white;
+    width: 20%;
+    padding: 28px;
+   
+}
+.img10{
+    height: 75px;
+    width: 250px;
+    border-radius: 50px ;
+    margin-left: 10px;
+    object-fit: cover;
+    margin-top: -5px;
+  
+}
+.quote{
+    // margin-left: 800px;
+    align-items: center;
+    display: flex;
+    gap: 20px;
+    align-self: flex-end;
+}
+hr{
+    width: 380px;
+}
+
+.text{
+
+   margin-left: 285px;
+   align-items: center;
+
+}
+.imgtext{
+    display: flex;
+}
+.textbtn{
+    display: flex;
+}
+.b{
+    font-size: 65px;
+    margin-bottom: 7px;
+    margin-left: 15px;
+}
+.box1{
+display: flex;
+margin-left: 250px;
+}
+.btn10{
+    background-color: orange;
+    width: 200px;
+    height: 70px;
+    border-radius:50px;
+    margin-left: 25px;
+}

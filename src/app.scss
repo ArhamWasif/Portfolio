@@ -1,0 +1,30 @@
+section{
+    height: 100vh;
+    // overflow-x: hidden;
+    
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html{
+    scroll-behavior: smooth;
+    scroll-snap-type: y mandatory;
+}
+body{
+    background-color:#0c0c1d;
+    color: white;
+    // overflow-x: hidden;
+   
+}
+/* Example: Flexbox alignment */
+
+  
+  /* Example: Grid layout */
+  .container3 {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px; /* Gap between grid items */
+  }
+  

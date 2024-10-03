@@ -1,0 +1,66 @@
+.img5{
+    width: 500px;
+    height: 550px;
+    margin-left: 450px;
+}
+.img6{
+   
+}
+.container{
+    display: flex;
+    
+}
+.container1{
+    // margin-left: 200px;
+//    align-items: center; 
+//    justify-content: center;
+margin-left: 120px;
+margin-top: 90px;
+}
+.btn1{
+    background-color:rgb(96, 96, 123);
+    width:187px ;
+    height: 50px;
+    border :2px solid white;
+    // text-align: left;
+   
+ 
+    
+}
+.btn{
+    margin-left: 10px;
+    display: block;
+    width: 124px;
+    height: 50px;
+    margin: auto;
+   
+}
+.butna{
+    gap: 1rem;
+    display: flex;
+}
+.name{
+    font-size:30px;
+    color: blue;
+    font-weight: 1000;
+    font-family: 'Courier New', Courier, monospace;
+    font-display:unset
+}
+.post{
+    font-size: 60px;
+    display: block;
+    margin: auto;
+    display: flex;
+    font-weight: 640;
+
+}
+.slider{
+    position: absolute;
+    font-size: 10vh;
+    bottom: -120px;
+    white-space: nowrap;
+    
+}
+.img6{
+    margin-top: 10px;
+}

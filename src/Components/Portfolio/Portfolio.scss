@@ -1,0 +1,148 @@
+// .portfolio {
+//   position: relative;
+
+//   .progress {
+//     position: sticky;
+//     top: 0;
+//     left: 0;
+//     padding-top: 50px;
+//     text-align: center;
+//     color: orange;
+//     font-size: 36px;
+//   }
+
+//   .progressbar {
+//     background-color: white;
+//     width: 380px;
+//     height: 10px;
+//     margin: 0 auto;
+//   }
+// }
+
+// .container {
+//   display: flex;
+//   align-items: center;
+//   justify-content: center;
+//   width: 100%;
+//   height: 100%;
+
+//   .wrapper {
+//     max-width: 1366px;
+//     margin: auto;
+//     height: 100%;
+//     display: flex;
+//    gap: 50px;
+//     .imgcont {
+//       flex: 1;
+
+//       img {
+//         width: 50%;
+//         height: 100%;
+//         object-fit: cover;
+//         margin-left: 250px;
+//       }
+//     }
+
+//     .textcontainer {
+//       flex: 1;
+//       display: flex;
+//       flex-direction: column;
+//       justify-content: center;
+//       margin-right: 10px;
+//       margin-top: -450px;
+
+//       h2 {
+//         margin-bottom: 20px;
+//       }
+
+//       p {
+//         margin-bottom: 20px;
+//       }
+//     }
+//   }
+// }
+// .single-item {
+//   padding: 50px 0;
+// }
+// button{
+//   width: 150px;
+// }
+.portfolio {
+  position: relative;
+
+  .progress {
+    position: sticky;
+    top: 0;
+    left: 0;
+    padding-top: 50px;
+    text-align: center;
+    color: orange;
+    font-size: 36px;
+  }
+
+  .progressbar {
+    background-color: white;
+
+    height: 10px;
+  
+  }
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+
+  .wrapper {
+    max-width: 1366px;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    display: flex;
+   gap: 50px;
+    .imgcont {
+      flex: 1;
+       width: 50%;
+        // height: 100%;
+        margin-right: 2px;
+        margin: auto;
+        margin-left: 300px;
+
+      img {
+       flex: 1;
+        height: 50%;
+        width:50%;
+        object-fit: cover;
+       
+        
+        
+      }
+    }
+
+    .textcontainer {
+      flex: 1;
+      margin-left: -290px;
+      margin-top: -620px;
+      
+    }
+  }
+}
+.btn11{
+  background-color: orange;
+    width: 170px;
+    // height: 25px;
+    // border-radius:50px;
+    
+    margin-top: 10px;
+}
+.desc{
+  color: rgb(219, 219, 199);
+  margin-top: 3px;
+}
+.title2{
+font-size: 35px;
+margin-top:32px ;
+}
